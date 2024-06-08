@@ -1,22 +1,7 @@
 # 🏄‍♂️ Jalal Mujawar
 ![](https://komarev.com/ghpvc/?username=jalalm07&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
 
-**`Backend Developer`** 
- Java
- Spring Boot
- Hibernate
- SQL
- Apache Kafka
- Rest Services
- Microservices
 
-
-**`Backend Developer`** 
-JavaScript
-HTML
-CSS
-ReactJS
-Node.js
 
  
 
@@ -41,6 +26,20 @@ meet business needs.
 
 ### 🔧 Backend
 
+**`Backend Developer`** 
+• Java - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+• Spring Boot
+• Hibernate
+• SQL
+• Apache Kafka
+• Microservices
+
+**`Frontend Developer`** 
+• JavaScript
+• HTML
+• CSS
+• ReactJS
+• Node.js
 
 ### ☁️ Cloud
 
