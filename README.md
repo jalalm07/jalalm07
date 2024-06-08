@@ -1,7 +1,24 @@
 # 🏄‍♂️ Jalal Mujawar
 ![](https://komarev.com/ghpvc/?username=jalalm07&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
 
-**`Backend Developer`**
+**`Backend Developer`** 
+ Java
+ Spring Boot
+ Hibernate
+ SQL
+ Apache Kafka
+ Rest Services
+ Microservices
+
+
+**`Backend Developer`** 
+JavaScript
+HTML
+CSS
+ReactJS
+Node.js
+
+ 
 
 • Highly motivated and experienced software engineer with 6.5+ years of experience in designing and developing software
 applications.
